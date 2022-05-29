@@ -1,0 +1,14 @@
+.messages {
+   margin: 28px auto;
+   width: 100%;
+}
+
+.messages ul {
+   padding: 16px;
+}
+
+.messages li {
+   margin: 8px 0;
+   padding: 8px;
+   border: 1px solid #ccc;
+}

@@ -1,0 +1,41 @@
+.messageForm {
+   margin: 50px 0;
+   padding: 45px 30px;
+   background-color: #faf6f6;
+   border-radius: 5px;
+}
+
+.messageForm input,
+.messageform textarea {
+   margin-bottom: 15px;
+   padding: 3px 20px 0 29px;
+   width: 100%;
+   height: 46px;
+   border: 1px solid #ccc;
+   color: #2a2a2a;
+   border-radius: 5px;
+   outline: none;
+}
+
+.messageForm textarea {
+   height: 150px;
+   padding: 20px;
+   margin-bottom: 8px;
+}
+
+.messageForm button {
+   width: 100%;
+   margin-top: -10px;
+   padding: 12px 25px;
+   background-color: #2a2a2a;
+   border: 1px solid #2a2a2a;
+   color: #faf6f6;
+   font-size: 15px;
+   font-weight: 700;
+   transition: all 0.5s ease-in-out;
+}
+
+.messageForm button:hover {
+   cursor: pointer;
+   opacity: 0.85;
+}

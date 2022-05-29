@@ -1,0 +1,15 @@
+.cardMessages {
+   padding: 20px;
+   background-color: #fff;
+   color: #2e2e2e;
+   border-radius: 10px;
+}
+
+.cardMessages h4 {
+   font-size: 23px;
+   font-weight: 400;
+}
+
+.cardMessages p {
+   font-size: 18px;
+}
